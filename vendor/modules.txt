@@ -1,0 +1,3 @@
+# github.com/armstrongli/go-bmi v0.0.1
+## explicit; go 1.16
+# Homework/teacher_example/009/fatrate_refactor/calc => ../local/directory
